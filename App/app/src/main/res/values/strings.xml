@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clock">Clock</string>
+    <string name="calculator">Calculator</string>
+    <string name="note">Note</string>
+    <string name="clock_1">CLOCK</string>
+    <string name="calculator_1">CALCULATOR</string>
+    <string name="note_1">NOTE</string>
+    <string name="CLOCK">CLOCK</string>
+    <string name="CALCULATOR">CALCULATOR</string>
+    <string name="NOTE">NOTE</string>
+
+</resources>
