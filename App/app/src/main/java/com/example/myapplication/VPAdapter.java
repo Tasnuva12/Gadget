@@ -19,6 +19,10 @@ import java.util.ArrayList;
 public class VPAdapter extends FragmentStateAdapter {
     private  int numOfTabs;
 
+    {
+        numOfTabs = 3;
+    }
+
     public VPAdapter(@NonNull FragmentManager fragmentManager, @NonNull Lifecycle lifecycle) {
         super(fragmentManager, lifecycle);
     }
